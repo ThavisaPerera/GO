@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8762467677",
+    "project_id": "go-app2-fbdba",
+    "storage_bucket": "go-app2-fbdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8762467677:android:3f30498b483181a19874b4",
+        "android_client_info": {
+          "package_name": "com.example.go_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpE9lTvq-1rOU5ME8x4SZKnVgcvuMV-EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
